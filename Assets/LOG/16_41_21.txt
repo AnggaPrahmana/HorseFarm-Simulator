@@ -1,0 +1,148 @@
+:: | Horse (1)) looking for leader
+
+16:39:50 | Horse (2)) looking for leader
+
+16:39:53 | Horse (2)) align with leader
+
+16:39:53 | Horse (2)) approach
+
+16:39:53 | Horse (2)) align with leader
+
+16:39:54 | Horse (2)) looking for leader
+
+16:39:54 | Horse (1)) align with leader
+
+16:39:54 | Horse (1)) approach
+
+16:39:54 | Horse (1)) align with leader
+
+16:39:55 | Horse (2)) align with leader
+
+16:39:55 | Horse (1)) looking for leader
+
+16:39:57 | Horse (1)) align with leader
+
+16:39:58 | Horse (2)) looking for leader
+
+16:39:59 | Horse (1)) looking for leader
+
+16:40:0 | Horse (2)) align with leader
+
+16:40:0 | Horse (2)) looking for leader
+
+16:40:1 | Horse (1)) align with leader
+
+16:40:2 | Horse (2)) align with leader
+
+16:40:3 | Horse (1)) looking for leader
+
+16:40:5 | Horse (2)) looking for leader
+
+16:40:5 | Horse (1)) align with leader
+
+16:40:7 | Horse (2)) align with leader
+
+16:40:7 | Horse (2)) looking for leader
+
+16:40:7 | Horse (1)) looking for leader
+
+16:40:8 | Horse (2)) align with leader
+
+16:40:9 | Horse (1)) align with leader
+
+16:40:11 | Horse (2)) looking for leader
+
+16:40:12 | Horse (1)) looking for leader
+
+16:40:13 | Horse (2)) align with leader
+
+16:40:14 | Horse (1)) align with leader
+
+16:40:14 | Horse (2)) looking for leader
+
+16:40:14 | Horse (1)) looking for leader
+
+16:40:15 | Horse (2)) align with leader
+
+16:40:16 | Horse (1)) align with leader
+
+16:40:18 | Horse (2)) looking for leader
+
+16:40:19 | Horse (1)) looking for leader
+
+16:40:21 | Horse (2)) align with leader
+
+16:40:21 | Horse (1)) align with leader
+
+16:40:21 | Horse (1)) looking for leader
+
+16:40:22 | Horse (2)) looking for leader
+
+16:40:22 | Horse (1)) align with leader
+
+16:40:24 | Horse (2)) align with leader
+
+16:40:25 | Horse (1)) looking for leader
+
+16:40:27 | Horse (2)) looking for leader
+
+16:40:27 | Horse (1)) align with leader
+
+16:40:28 | Horse (1)) looking for leader
+
+16:40:29 | Horse (2)) align with leader
+
+16:40:29 | Horse (2)) looking for leader
+
+16:40:29 | Horse (1)) align with leader
+
+16:40:30 | Horse (2)) align with leader
+
+16:40:32 | Horse (2)) arrive
+
+16:40:32 | Horse (2)) align with leader
+
+16:40:32 | Horse (1)) looking for leader
+
+16:40:34 | Horse (1)) align with leader
+
+16:40:34 | Horse (1)) looking for leader
+
+16:40:35 | Horse (1)) align with leader
+
+16:40:38 | Horse (1)) looking for leader
+
+16:40:40 | Horse (1)) align with leader
+
+16:40:42 | Horse (1)) looking for leader
+
+16:40:43 | Horse (1)) align with leader
+
+16:40:43 | Horse (1)) looking for leader
+
+16:40:44 | Horse (1)) align with leader
+
+16:40:47 | Horse (1)) looking for leader
+
+16:40:49 | Horse (1)) align with leader
+
+16:40:49 | Horse (1)) looking for leader
+
+16:40:51 | Horse (1)) align with leader
+
+16:40:54 | Horse (1)) looking for leader
+
+16:40:55 | Horse (1)) align with leader
+
+16:40:56 | Horse (1)) looking for leader
+
+16:40:57 | Horse (1)) align with leader
+
+16:40:57 | Horse (1)) looking for leader
+
+16:40:58 | Horse (1)) align with leader
+
+16:41:0 | Horse (1)) arrive
+
+16:41:0 | Horse (1)) align with leader
+
